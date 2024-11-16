@@ -13,3 +13,4 @@ for file in file_list:
     chapter = file[0:3]
     quranDict[chapter].append(file)
 
+#commenr
